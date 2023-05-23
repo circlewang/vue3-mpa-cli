@@ -18,7 +18,7 @@ program
   .command("create <project-name>")
   .action((projectName, options) => {
     console.log(options,'options------')
-    require(path.resolve(__dirname, "./combination.js"))(projectName, options);
+    require("./combination.js")(projectName, options);
   })
 
 program.parse(process.argv)

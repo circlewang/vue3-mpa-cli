@@ -1,5 +1,5 @@
 {
-  "name": "mpa-cli",
+  "name": "vue3-mpa-cli",
   "version": "1.0.30",
   "description": "vue3+vite脚手架",
   "main": "./bin/index.js",

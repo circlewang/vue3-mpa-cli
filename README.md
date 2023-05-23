@@ -1,7 +1,7 @@
 
 # npm 发布脚手架
 
-仓库地址：https://github.com/circlewang/mpa-cli
+仓库地址：https://github.com/circlewang/vue3-mpa-cli
 
 - 基于 vite + vue3 + ts + pinia + scss 搭建一个H5多页应用的脚手架
 - px、rem适配没有实现，后续会填坑
@@ -10,7 +10,7 @@
 
 ## 创建新页面
 
-- `npm install mpa-cli -g`
+- `npm install vue3-mpa-cli -g`
 
 - `circle create 项目名`
 

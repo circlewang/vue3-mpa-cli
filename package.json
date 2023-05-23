@@ -1,0 +1,20 @@
+{
+  "name": "vue3-ts-mpa",
+  "version": "1.0.30",
+  "description": "vue3+vite脚手架",
+  "main": "./bin/index.js",
+  "bin": {
+    "circle": "./bin/index.js"
+  },
+  "author": "wmy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.1",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.6.0",
+    "inquirer": "^8.2.0",
+    "ora": "^5.3.0"
+  },
+  "devDependencies": {}
+}
